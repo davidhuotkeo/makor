@@ -1,209 +1,203 @@
-function _0x3006() {
-    const _0x489aa0 = [
-        "BakongKHQR",
-        "href",
-        "932ZFjErI",
-        "generateIndividual",
-        "6474jMfGZQ",
-        "IndividualInfo",
-        "Token\x20is\x20required\x20to\x20initialize\x20Makor.",
-        "items",
-        "makor-payment",
-        "errorCode",
-        "initPayment",
-        "Error:",
-        "Payment\x20initialization\x20failed.\x20",
-        "disabled",
-        "khr",
-        "successUrl",
-        "textContent",
-        "function",
-        "2534888QkukFH",
-        "Payment\x20button\x20with\x20ID\x20\x27makor-payment\x27\x20not\x20found!",
-        "USD",
-        "1624mjSrvY",
-        "/payment/init",
-        "1108911yRujvG",
-        "currency",
-        "Failed\x20to\x20initialize\x20payment.\x20Please\x20try\x20again.",
-        "dave@pras",
-        "POST",
-        "72jzAysW",
-        "khqrData",
-        "448430XAVVvU",
-        "referenceId",
-        "Each\x20item\x20must\x20have\x20name,\x20quantity,\x20and\x20price.",
-        "storeName",
-        "price",
-        "click",
-        "https://makor.mioceen.com",
-        "522233NMbPdS",
-        "944000UkuXOa",
-        "json",
-        "message",
-        "Makor",
-        "Payment\x20failed:\x20",
-        "PHNOM\x20PENH",
-        "md5",
-        "application/json",
-        "addEventListener",
-        "usd",
-        "cancelUrl",
-        "655GDBdjx",
-        "location",
-        "quantity",
-        "data",
-        "Bearer\x20",
-    ];
-    _0x3006 = function () {
-        return _0x489aa0;
-    };
-    return _0x3006();
-}
-function _0x369e(_0x1a46bc, _0x4474bb) {
-    const _0x300630 = _0x3006();
+function _0x21c0(_0x34bda5, _0x486311) {
+    const _0x553970 = _0x5539();
     return (
-        (_0x369e = function (_0x369e63, _0x32650c) {
-            _0x369e63 = _0x369e63 - 0x1d4;
-            let _0x1624c1 = _0x300630[_0x369e63];
-            return _0x1624c1;
+        (_0x21c0 = function (_0x21c0fb, _0x394f4a) {
+            _0x21c0fb = _0x21c0fb - 0xa0;
+            let _0x1020da = _0x553970[_0x21c0fb];
+            return _0x1020da;
         }),
-        _0x369e(_0x1a46bc, _0x4474bb)
+        _0x21c0(_0x34bda5, _0x486311)
     );
 }
-(function (_0x417b94, _0x295379) {
-    const _0x14e7d4 = _0x369e,
-        _0x4f6924 = _0x417b94();
+function _0x5539() {
+    const _0xada50e = [
+        "onInitSuccess",
+        "Processing...",
+        "4249017tmxOZa",
+        "items",
+        "initPayment",
+        "IndividualInfo",
+        "699128DIFMrx",
+        "usd",
+        "3880919mPgdIt",
+        "Bearer\x20",
+        "6368768iShygd",
+        "2lSrkek",
+        "Makor",
+        "successUrl",
+        "Missing\x20required\x20fields:\x20storeName,\x20currency,\x20or\x20items.",
+        "Payment\x20failed:\x20",
+        "error",
+        "disabled",
+        "application/json",
+        "POST",
+        "3669834IyetVo",
+        "cancelUrl",
+        "9QaXxfI",
+        "generateIndividual",
+        "name",
+        "makor-payment",
+        "md5",
+        "errorCode",
+        "https://makor.mioceen.com",
+        "function",
+        "click",
+        "href",
+        "referenceId",
+        "data",
+        "454587DXuqTW",
+        "price",
+        "message",
+        "Token\x20is\x20required\x20to\x20initialize\x20Makor.",
+        "storeName",
+        "Failed\x20to\x20initialize\x20payment.\x20Please\x20try\x20again.",
+        "location",
+        "Each\x20item\x20must\x20have\x20name,\x20quantity,\x20and\x20price.",
+        "/payment/init",
+        "khr",
+        "Payment\x20button\x20with\x20ID\x20\x27makor-payment\x27\x20not\x20found!",
+        "quantity",
+        "textContent",
+        "callbackUrl",
+        "currency",
+        "477625EZTHsl",
+        "Error:",
+    ];
+    _0x5539 = function () {
+        return _0xada50e;
+    };
+    return _0x5539();
+}
+(function (_0x423b00, _0x56edc0) {
+    const _0x43e0d4 = _0x21c0,
+        _0x154341 = _0x423b00();
     while (!![]) {
         try {
-            const _0x9133e7 =
-                -parseInt(_0x14e7d4(0x1f9)) / 0x1 +
-                -parseInt(_0x14e7d4(0x1f2)) / 0x2 +
-                parseInt(_0x14e7d4(0x1eb)) / 0x3 +
-                (parseInt(_0x14e7d4(0x1d6)) / 0x4) *
-                    (-parseInt(_0x14e7d4(0x205)) / 0x5) +
-                (parseInt(_0x14e7d4(0x1d8)) / 0x6) *
-                    (parseInt(_0x14e7d4(0x1e9)) / 0x7) +
-                -parseInt(_0x14e7d4(0x1e6)) / 0x8 +
-                (-parseInt(_0x14e7d4(0x1f0)) / 0x9) *
-                    (-parseInt(_0x14e7d4(0x1fa)) / 0xa);
-            if (_0x9133e7 === _0x295379) break;
-            else _0x4f6924["push"](_0x4f6924["shift"]());
-        } catch (_0x5d5f50) {
-            _0x4f6924["push"](_0x4f6924["shift"]());
+            const _0x136179 =
+                (parseInt(_0x43e0d4(0xb2)) / 0x1) *
+                    (parseInt(_0x43e0d4(0xce)) / 0x2) +
+                (-parseInt(_0x43e0d4(0xa6)) / 0x3) *
+                    (-parseInt(_0x43e0d4(0xc9)) / 0x4) +
+                -parseInt(_0x43e0d4(0xc1)) / 0x5 +
+                parseInt(_0x43e0d4(0xa4)) / 0x6 +
+                -parseInt(_0x43e0d4(0xcb)) / 0x7 +
+                -parseInt(_0x43e0d4(0xcd)) / 0x8 +
+                parseInt(_0x43e0d4(0xc5)) / 0x9;
+            if (_0x136179 === _0x56edc0) break;
+            else _0x154341["push"](_0x154341["shift"]());
+        } catch (_0xe61fe8) {
+            _0x154341["push"](_0x154341["shift"]());
         }
     }
-})(_0x3006, 0x44af5),
+})(_0x5539, 0x968c7),
     (function () {
-        const _0x18aa24 = _0x369e;
-        window[_0x18aa24(0x1fd)] = function (_0x57c7f0, _0x4f04c1) {
-            const _0x36eaa7 = _0x18aa24;
-            _0x57c7f0 = _0x57c7f0 || _0x36eaa7(0x1f8);
-            if (!_0x4f04c1) throw new Error(_0x36eaa7(0x1da));
-            this[_0x36eaa7(0x1de)] = function (_0x1db01b) {
-                const _0x596503 = _0x36eaa7;
+        const _0x263f5a = _0x21c0;
+        window[_0x263f5a(0xcf)] = function (_0x41ec57, _0x2a5fb0) {
+            const _0x4345e5 = _0x263f5a;
+            _0x41ec57 = _0x41ec57 || _0x4345e5(0xac);
+            if (!_0x2a5fb0) throw new Error(_0x4345e5(0xb5));
+            this[_0x4345e5(0xc7)] = function (_0x57ae20) {
+                const _0xfa99a7 = _0x4345e5;
                 if (
-                    !_0x1db01b[_0x596503(0x1f5)] ||
-                    !_0x1db01b[_0x596503(0x1ec)] ||
-                    !_0x1db01b["successUrl"] ||
-                    !_0x1db01b[_0x596503(0x204)] ||
-                    !_0x1db01b[_0x596503(0x1db)]
+                    !_0x57ae20[_0xfa99a7(0xb6)] ||
+                    !_0x57ae20[_0xfa99a7(0xc0)] ||
+                    !_0x57ae20[_0xfa99a7(0xd0)] ||
+                    !_0x57ae20[_0xfa99a7(0xa5)] ||
+                    !_0x57ae20["items"]
                 )
-                    throw new Error(
-                        "Missing\x20required\x20fields:\x20storeName,\x20currency,\x20or\x20items."
-                    );
-                let _0x418fb9 = 0x0;
-                for (const _0x4f938f of _0x1db01b["items"]) {
+                    throw new Error(_0xfa99a7(0xd1));
+                let _0x448f97 = 0x0;
+                for (const _0x2ddb91 of _0x57ae20["items"]) {
                     if (
-                        !_0x4f938f["name"] ||
-                        !_0x4f938f[_0x596503(0x207)] ||
-                        !_0x4f938f[_0x596503(0x1f6)]
+                        !_0x2ddb91[_0xfa99a7(0xa8)] ||
+                        !_0x2ddb91[_0xfa99a7(0xbd)] ||
+                        !_0x2ddb91[_0xfa99a7(0xb3)]
                     )
-                        throw new Error(_0x596503(0x1f4));
-                    _0x418fb9 +=
-                        _0x4f938f[_0x596503(0x207)] *
-                        _0x4f938f[_0x596503(0x1f6)];
+                        throw new Error(_0xfa99a7(0xb9));
+                    _0x448f97 +=
+                        _0x2ddb91[_0xfa99a7(0xbd)] * _0x2ddb91[_0xfa99a7(0xb3)];
                 }
-                const _0x440910 = document["getElementById"](_0x596503(0x1dc));
-                if (!_0x440910) throw new Error(_0x596503(0x1e7));
-                const _0x5c42c5 = new BakongKHQR[_0x596503(0x1d4)](),
-                    _0x3d2434 = BakongKHQR[_0x596503(0x1f1)],
-                    _0x8de658 = {
+                const _0x570e23 = document["getElementById"](_0xfa99a7(0xa9));
+                if (!_0x570e23) throw new Error(_0xfa99a7(0xbc));
+                const _0x47054f = new BakongKHQR["BakongKHQR"](),
+                    _0x5151ee = BakongKHQR["khqrData"],
+                    _0x1d069e = {
                         currency:
-                            _0x1db01b[_0x596503(0x1ec)] == _0x596503(0x1e8)
-                                ? _0x3d2434[_0x596503(0x1ec)][_0x596503(0x203)]
-                                : _0x3d2434["currency"][_0x596503(0x1e2)],
-                        amount: _0x418fb9,
+                            _0x57ae20[_0xfa99a7(0xc0)] == "USD"
+                                ? _0x5151ee[_0xfa99a7(0xc0)][_0xfa99a7(0xca)]
+                                : _0x5151ee[_0xfa99a7(0xc0)][_0xfa99a7(0xbb)],
+                        amount: _0x448f97,
                     },
-                    _0x5960ae = new BakongKHQR[_0x596503(0x1d9)](
-                        _0x596503(0x1ee),
-                        _0x1db01b["storeName"],
-                        _0x596503(0x1ff),
-                        _0x8de658
+                    _0xe7ea76 = new BakongKHQR[_0xfa99a7(0xc8)](
+                        "dave@pras",
+                        _0x57ae20[_0xfa99a7(0xb6)],
+                        "PHNOM\x20PENH",
+                        _0x1d069e
                     ),
-                    _0x2ec38a = _0x5c42c5[_0x596503(0x1d7)](_0x5960ae),
-                    _0x4ba827 = _0x2ec38a[_0x596503(0x208)]["qr"],
-                    _0x14f880 = _0x2ec38a[_0x596503(0x208)][_0x596503(0x200)];
-                _0x440910[_0x596503(0x202)](_0x596503(0x1f7), async () => {
-                    const _0xb8fd7a = _0x596503;
-                    (_0x440910[_0xb8fd7a(0x1e1)] = !![]),
-                        (_0x440910[_0xb8fd7a(0x1e4)] = "Processing...");
+                    _0x1d7098 = _0x47054f[_0xfa99a7(0xa7)](_0xe7ea76),
+                    _0x4ea10d = _0x1d7098[_0xfa99a7(0xb1)]["qr"],
+                    _0x219fce = _0x1d7098[_0xfa99a7(0xb1)][_0xfa99a7(0xaa)];
+                _0x570e23["addEventListener"](_0xfa99a7(0xae), async () => {
+                    const _0x4d0418 = _0xfa99a7;
+                    (_0x570e23[_0x4d0418(0xa1)] = !![]),
+                        (_0x570e23[_0x4d0418(0xbe)] = _0x4d0418(0xc4));
                     try {
-                        const _0x2079c4 = await fetch(
-                            _0x57c7f0 + _0xb8fd7a(0x1ea),
+                        const _0x329ac4 = await fetch(
+                            _0x41ec57 + _0x4d0418(0xba),
                             {
-                                method: _0xb8fd7a(0x1ef),
+                                method: _0x4d0418(0xa3),
                                 headers: {
-                                    "Content-Type": _0xb8fd7a(0x201),
-                                    Authorization: _0xb8fd7a(0x209) + _0x4f04c1,
+                                    "Content-Type": _0x4d0418(0xa2),
+                                    Authorization: _0x4d0418(0xcc) + _0x2a5fb0,
                                 },
                                 body: JSON["stringify"]({
-                                    storeName: _0x1db01b[_0xb8fd7a(0x1f5)],
-                                    currency: _0x1db01b[_0xb8fd7a(0x1ec)],
-                                    qrcode: _0x4ba827,
-                                    md5: _0x14f880,
-                                    items: _0x1db01b["items"],
-                                    amount: _0x418fb9,
-                                    callbackUrl: _0x1db01b["callbackUrl"],
+                                    storeName: _0x57ae20[_0x4d0418(0xb6)],
+                                    currency: _0x57ae20[_0x4d0418(0xc0)],
+                                    qrcode: _0x4ea10d,
+                                    md5: _0x219fce,
+                                    items: _0x57ae20[_0x4d0418(0xc6)],
+                                    amount: _0x448f97,
+                                    callbackUrl: _0x57ae20[_0x4d0418(0xbf)],
                                 }),
                             }
                         );
-                        if (!_0x2079c4["ok"]) throw new Error(_0xb8fd7a(0x1ed));
-                        const _0x4d5ce1 = await _0x2079c4[_0xb8fd7a(0x1fb)]();
+                        if (!_0x329ac4["ok"]) throw new Error(_0x4d0418(0xb7));
+                        const _0x5a69fb = await _0x329ac4["json"]();
                         if (
-                            _0x4d5ce1[_0xb8fd7a(0x1dd)] === 0x0 &&
-                            _0x4d5ce1[_0xb8fd7a(0x208)] &&
-                            _0x4d5ce1[_0xb8fd7a(0x208)][_0xb8fd7a(0x1f3)]
+                            _0x5a69fb[_0x4d0418(0xab)] === 0x0 &&
+                            _0x5a69fb["data"] &&
+                            _0x5a69fb[_0x4d0418(0xb1)][_0x4d0418(0xb0)]
                         ) {
-                            const _0x245ea3 =
-                                    _0x4d5ce1[_0xb8fd7a(0x208)][
-                                        _0xb8fd7a(0x1f3)
-                                    ],
-                                _0x10d543 =
-                                    typeof _0x1db01b[_0xb8fd7a(0x1e3)] ===
-                                    _0xb8fd7a(0x1e5)
-                                        ? _0x1db01b[_0xb8fd7a(0x1e3)](_0x245ea3)
-                                        : _0x1db01b[_0xb8fd7a(0x1e3)];
-                            window[_0xb8fd7a(0x206)]["href"] = _0x10d543;
+                            const _0xc7a383 =
+                                _0x5a69fb[_0x4d0418(0xb1)][_0x4d0418(0xb0)];
+                            typeof _0x57ae20[_0x4d0418(0xc3)] === "function" &&
+                                _0x57ae20[_0x4d0418(0xc3)](_0xc7a383);
+                            const _0x12a5c4 =
+                                typeof _0x57ae20[_0x4d0418(0xd0)] ===
+                                _0x4d0418(0xad)
+                                    ? _0x57ae20["successUrl"](_0xc7a383)
+                                    : _0x57ae20[_0x4d0418(0xd0)];
+                            window[_0x4d0418(0xb8)][_0x4d0418(0xaf)] =
+                                _0x12a5c4;
                         } else
                             throw new Error(
-                                _0xb8fd7a(0x1e0) + _0x4d5ce1["message"]
+                                "Payment\x20initialization\x20failed.\x20" +
+                                    _0x5a69fb["message"]
                             );
-                    } catch (_0x1577ae) {
-                        console["error"](
-                            _0xb8fd7a(0x1df),
-                            _0x1577ae[_0xb8fd7a(0x1fc)]
+                    } catch (_0x1e491e) {
+                        console[_0x4d0418(0xa0)](
+                            _0x4d0418(0xc2),
+                            _0x1e491e["message"]
                         ),
-                            alert(_0xb8fd7a(0x1fe) + _0x1577ae["message"]);
-                        const _0x5229eb =
-                            typeof _0x1db01b[_0xb8fd7a(0x204)] ===
-                            _0xb8fd7a(0x1e5)
-                                ? _0x1db01b["cancelUrl"]()
-                                : _0x1db01b[_0xb8fd7a(0x204)];
-                        window[_0xb8fd7a(0x206)][_0xb8fd7a(0x1d5)] = _0x5229eb;
+                            alert(_0x4d0418(0xd2) + _0x1e491e[_0x4d0418(0xb4)]);
+                        const _0x8ead6c =
+                            typeof _0x57ae20[_0x4d0418(0xa5)] === "function"
+                                ? _0x57ae20[_0x4d0418(0xa5)]()
+                                : _0x57ae20["cancelUrl"];
+                        window[_0x4d0418(0xb8)][_0x4d0418(0xaf)] = _0x8ead6c;
                     } finally {
-                        (_0x440910[_0xb8fd7a(0x1e1)] = ![]),
-                            (_0x440910["textContent"] = "Pay\x20Now");
+                        (_0x570e23["disabled"] = ![]),
+                            (_0x570e23[_0x4d0418(0xbe)] = "Pay\x20Now");
                     }
                 });
             };
